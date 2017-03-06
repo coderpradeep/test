@@ -12,7 +12,7 @@ server.connection({
 // Add the route
 server.route({
     method: 'GET',
-    path:'/helloo', 
+    path:'/hellojukhlkho', 
     handler: function (request, reply) {
 
         return reply('hello world');
